@@ -6,7 +6,13 @@ function App() {
 
 	return (
 		<>
-			<h1 className='text-green-600'>IMAGE KEY</h1>
+			<div className='m-4 border-l-4 border-cyan-500 p-2'>
+				<h1>
+					<span className='text-gray-500 font-black text-4xl'>IMAGE</span>
+					<span className='text-cyan-500 text-4xl font-light pl-1'>KEY</span>
+				</h1>
+			</div>
+
 			<KeyCard />
 		</>
 	)

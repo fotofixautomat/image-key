@@ -1,7 +1,7 @@
 const data = [
 	{
 		title: 'Thematik',
-		style: { border: 'border-orange-500', bgcolor: 'bg-orange-500' },
+		style: { border: 'border-cyan-400', bgcolor: 'bg-cyan-400' },
 		keys: [
 			{
 				name: 'Street Photography',
@@ -361,7 +361,7 @@ const data = [
 	},
 	{
 		title: 'Komposition & Perspektive',
-		style: { border: 'border-lime-500', bgcolor: 'bg-lime-500' },
+		style: { border: 'border-lime-400', bgcolor: 'bg-lime-400' },
 		keys: [
 			{ name: 'Nahaufnahme' },
 			{ name: 'Augenhöhe' },
@@ -397,7 +397,7 @@ const data = [
 	},
 	{
 		title: 'Stil',
-		style: { border: 'border-cyan-500', bgcolor: 'bg-cyan-500' },
+		style: { border: 'border-orange-400', bgcolor: 'bg-orange-400' },
 		keys: [
 			{
 				name: 'Abstrakt',
@@ -649,14 +649,13 @@ const data = [
 	},
 	{
 		title: 'Beleuchtung',
-		style: { border: 'border-red-500', bgcolor: 'bg-red-500' },
+		style: { border: 'border-teal-300', bgcolor: 'bg-teal-300' },
 		keys: [
 			{ name: 'Weiches Morgenlicht' },
 			{ name: 'Dramatisches Gegenlicht' },
 			{ name: 'Schummriges Kerzenlicht' },
 			{ name: 'Hoher Kontrast' },
 			{ name: 'Hohes Detailniveaut' },
-			{ name: 'HDR' },
 			{ name: 'Hohes Maß an Dynamik' },
 			{ name: 'Natürliches Licht' },
 			{ name: 'Starke Farbkontraste' },
@@ -675,7 +674,7 @@ const data = [
 	},
 	{
 		title: 'Künstler',
-		style: { border: 'border-green-500', bgcolor: 'bg-green-500' },
+		style: { border: 'border-yellow-300', bgcolor: 'bg-yellow-300' },
 		keys: [
 			{
 				name: 'Walt Disney',
@@ -776,7 +775,7 @@ const data = [
 	},
 	{
 		title: 'Format',
-		style: { border: 'border-purple-500', bgcolor: 'bg-purple-500' },
+		style: { border: 'border-purple-400', bgcolor: 'bg-purple-400' },
 		keys: [
 			{ name: 'Quadratisch (1:1)' },
 			{ name: 'Panorama (16:9)' },
@@ -795,7 +794,7 @@ const data = [
 	},
 	{
 		title: 'Medium',
-		style: { border: 'border-gray-500', bgcolor: 'bg-gray-500' },
+		style: { border: 'border-gray-400', bgcolor: 'bg-gray-400' },
 		keys: [
 			{ name: 'Fotografie', description: 'Erstellung von Bildern durch Licht auf einem lichtempfindlichen Medium.' },
 			{
